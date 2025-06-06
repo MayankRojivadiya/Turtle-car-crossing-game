@@ -22,6 +22,7 @@ Each time the turtle successfully reaches the top of the screen, the game **auto
 ## 🖼️ Preview
 
 ![Game Preview](.assets/preview(1).png) 
+![Game Preview](.assets/preview(2).png) 
 
 ---
 
