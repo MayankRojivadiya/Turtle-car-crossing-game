@@ -1,9 +1,9 @@
 from turtle import Screen
 import time
-from player import Player
-from cars import Cars
-from score import Score
-from border import Border
+from src.player import Player
+from src.cars import Cars
+from src.score import Score
+from src.border import Border
 
 screen = Screen()
 screen.bgcolor("black")

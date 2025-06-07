@@ -35,5 +35,6 @@ Each time the turtle successfully reaches the top of the screen, the game **auto
 
 ---
 
-## 🗂️ File Structure
-
+## How to Run
+```bash
+python Turtle-car-crossing-game.py
